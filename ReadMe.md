@@ -2,7 +2,7 @@
 
 This is small project that highlights Object oriented principles through easy example.
 
-##Setup Environment
+## Setup Environment
 1. Download and install [IntellIJ](https://www.jetbrains.com/idea/download/) community edition
 2. Download and install [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (in this project we used Java 8)
 3. To update IntelliJ to add the Java 8 SDK, do one of the following:

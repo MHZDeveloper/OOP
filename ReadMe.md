@@ -1,6 +1,6 @@
 # Object Oriented Programming using Java
 
-This is small project that highlights Object oriented principles through easy example.
+This is a small project that highlights Object oriented principles through an easy example.
 
 ## Setup Environment
 1. Download and install [IntellIJ](https://www.jetbrains.com/idea/download/) community edition

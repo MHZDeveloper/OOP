@@ -5,7 +5,7 @@ This is a small project that highlights Object oriented principles through an ea
 ## Setup Environment
 1. Download and install [IntellIJ](https://www.jetbrains.com/idea/download/) community edition
 2. Download and install [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (in this project we used Java 8)
-3. To update IntelliJ to add the Java 8 SDK, do one of the following:
+3. To update IntelliJ to add the Java JDK, do one of the following:
     * From the **Welcome to IntelliJ IDEA** dialog:
         * Choose **Configure** > **Project Defaults** > **Project Structure** > **JDK**
         * Select the appropriate Java JDK folder. 

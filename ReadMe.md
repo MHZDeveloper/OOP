@@ -2,6 +2,8 @@
 
 This is a small project that highlights Object oriented principles through an easy example.
 
+You can find the presentation [here](https://docs.google.com/presentation/d/1WvTOf5BPO0VGD26MTDNvKQSCV7HGQf7cDYydEue4Y6k/edit?usp=sharing).
+
 ## Setup Environment
 1. Download and install [IntellIJ](https://www.jetbrains.com/idea/download/) community edition
 2. Download and install [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (in this project we used Java 8)
